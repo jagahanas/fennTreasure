@@ -30,10 +30,10 @@ I give you title to the gold._
 
 TODO:  
 GIS:  
-	* Solid Color for Elevations above 5000'  
-	* Crop  
-		* For only 8 miles North of Sante Fe, NM  
-		* NOT hidden in Idaho, Utah, Arizona, outside continental US  
-	* 5hr radius from Sante Fe, NM  
-	* Add Marker for Sante Fe, NM  
-	* Import mapserver  
+* Solid Color for Elevations above 5000'  
+* Crop  
+	* For only 8 miles North of Sante Fe, NM  
+	* NOT hidden in Idaho, Utah, Arizona, outside continental US  
+* 5hr radius from Sante Fe, NM  
+* Add Marker for Sante Fe, NM  
+* Import mapserver  
