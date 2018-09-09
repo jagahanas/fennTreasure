@@ -1,7 +1,7 @@
 # fennTreasure
 A collective gathering analyzing the clues to Forrest Fenn's Treasure
 
-#The Poem
+#The Poem  
 _As I have gone alone in there  
 And with my treasures bold,  
 I can keep my secret where,  
@@ -28,12 +28,12 @@ If you are brave and in the wood
 I give you title to the gold._
 
 
-TODO:
-GIS:
-	*Solid Color for Elevations above 5000'
-	*Crop
-		*For only 8 miles North of Sante Fe, NM
-		*NOT hidden in Idaho, Utah, Arizona, outside continental US
-	*5hr radius from Sante Fe, NM
-	*Add Marker for Sante Fe, NM
-	*Import mapserver
+TODO:  
+GIS:  
+	*Solid Color for Elevations above 5000'  
+	*Crop  
+		*For only 8 miles North of Sante Fe, NM  
+		*NOT hidden in Idaho, Utah, Arizona, outside continental US  
+	*5hr radius from Sante Fe, NM  
+	*Add Marker for Sante Fe, NM  
+	*Import mapserver  
